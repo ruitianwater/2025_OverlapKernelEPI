@@ -12,3 +12,6 @@ Please cite the following paper:
 Tian R, Uecker M, Zaitsev M, Scheffler K. Overlap-kernel EPI: estimating MRI shot-to-shot phase variations by shifted-kernel extraction from overlapped regions at arbitrary k-space locations. Magn Reson Med, 2025. doi: 10.1002/mrm.70196
 
 For further questions, please contact Rui Tian, rui.tian@tuebingen.mpg.de/ruitianwater@outlook.com
+
+This package also includes third-party components to support running the codes:
+- Pulseq (directory: pulseq-master), with its own license.
